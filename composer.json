@@ -1,0 +1,7 @@
+{
+  "name": "andee/toko-sepatu",
+  "description": "Aplikasi CRUD toko sepatu dengan native PHP dan DOMPDF",
+  "require": {
+    "dompdf/dompdf": "^3.0"
+  }
+}
